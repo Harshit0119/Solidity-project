@@ -1,4 +1,3 @@
-# Solidity-project
 # Prediction Market Platform
 
 ## Project Description
