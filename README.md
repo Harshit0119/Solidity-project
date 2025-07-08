@@ -59,4 +59,12 @@ By leveraging blockchain technology, we eliminate the need for centralized autho
 - **Dynamic Fee Structure**: Implement smart fee adjustments based on market conditions
 - **Decentralized Governance**: Transition to fully decentralized autonomous organization (DAO) model
 
+
 The platform is designed to evolve into a comprehensive ecosystem for prediction markets, serving both individual users and institutional clients while maintaining the core principles of decentralization and transparency.
+
+
+##contract address	0x071229f68f230149d8fc9a91f5017a8236bb1e2b
+
+
+##IMG
+![Screenshot 2025-07-08 104020](https://github.com/user-attachments/assets/2a116bec-17cd-49e3-9da4-b1dc5cc4b81b)
